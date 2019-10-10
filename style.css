@@ -1,0 +1,10 @@
+section#tarjetas {
+	background-color: #3b3b3b;
+}
+div.jumbotron{
+	margin: 0;
+} 
+section#Background {
+	padding: 200px;
+	background-image: url(https://misanimales.com/wp-content/uploads/2018/07/mito-del-gato-negro.jpg);
+}
